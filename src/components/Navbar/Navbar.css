@@ -1,0 +1,29 @@
+nav {
+    box-shadow: 0 3px 5px rgba(57,63,72,.3);
+    
+}
+.transdev-logo {
+    width:150px;
+}
+.db-logo {
+    width:60px;
+}
+.vrr-logo {
+    width:55px;
+}
+@media (max-width: 992px) {
+    .transdev-logo {
+        display: none;
+      }
+    .db-logo {
+        display: none;
+    }
+   
+  }
+.links a{
+    color:rgb(43, 122, 0);
+    font-size: 16px;
+    text-decoration: underline;
+} 
+
+
